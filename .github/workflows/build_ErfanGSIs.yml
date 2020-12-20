@@ -5,7 +5,7 @@ on:
     types: [started]
     
 env:
-  ROM_URL: https://iweb.dl.sourceforge.net/project/miroom/20.6.18/MiMIX2_MIUI_20.6.18_MiRoom_9.0.zip  ErfanGSI
+  ROM_URL: https://iweb.dl.sourceforge.net/project/miroom/20.6.18/MiMIX2_MIUI_20.6.18_MiRoom_9.0.zip  ErfanGSIs
   ROM_NAME: MIUI
   TZ: Asia/Kolkata
   MIR: wet
